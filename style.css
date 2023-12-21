@@ -1,0 +1,174 @@
+.webstudio {
+    padding-right: 100px;
+    padding-left: 200px;
+}
+h2 {
+    font-family:  sans-serif;
+
+}
+header {
+    display: flex;
+}
+a {
+    text-decoration: none;
+}
+p {
+    font-size: 20px;
+    
+}
+h3 {
+    color: black;
+}
+   
+.content-container {
+    display: flex; 
+}
+
+.section { 
+    margin: 10px; 
+    color: rgb(155, 151, 151);
+    padding-top: 100px;
+    padding-left: 100px ;
+
+}
+.underhead {
+    background-color: rgb(51, 57, 68);
+    height: 450px;
+    padding-top: 200px ;
+    
+}
+h1 {
+    padding: 10px;
+    font-size: 45px;
+    font-family:  sans-serif;
+    text-align: center;
+}
+.title {
+    color: white;;
+    text-transform: uppercase;
+    text-align: center;
+}
+button {
+  margin: -100px;
+  background-color: rgb(32, 99, 207);
+  border-radius: 10px;
+  padding: 20px;
+  color: white;
+  font-size: 22px;
+  width: 250px;
+  transition: transform 0.3s ease;
+  transition: all 0.5s ease 0s;
+  border: none;
+}
+button:hover {
+    transform: scale(1.5);
+    background-color: orange;
+}
+img {
+    transition: transform 0.3s ease;
+    margin: 20px;
+    border-radius: 20px;
+}
+img:hover {
+    transform: scale(1.2);
+}
+.web {
+    position: absolute;
+    color: rgb(51, 189, 235);
+    font-size: 25px;
+    top: 3px;
+    left: 150px;
+}
+a {
+    margin: 10px;
+    padding: 10px;
+        }
+nav {
+    position: relative;
+    top: 20px;
+    padding-right: 200px;
+    font-family: sans-serif;
+}
+.contact {
+    padding-right: 100px;
+    color: black;
+}
+.studio {
+    color: rgb(50, 185, 231);
+}
+.portfolio {
+    color: black;
+}
+.mail {
+    color: rgb(50, 185, 231);
+}
+.number {
+    color: gray;
+}
+.picture-container {
+    display: flex;
+}
+.picture {
+    margin: 100px; 
+    padding-left: 300px ;
+}
+.headpicture {
+    display: flex;
+    padding-left: 430px;
+}
+.foter {
+   
+    background-color: rgb(40, 45, 49);
+    padding: 100px;
+    border-radius: 50px;
+}
+.foterweb {
+    margin-left: -45px;
+    color: aliceblue;
+}
+.fotercont {
+    color: aliceblue;
+    position: relative;
+    margin-left: 150px;
+}
+.fotermail {
+    color: gray;
+    position: relative;
+    margin-left: 140px;
+    font-size: 20px;
+}
+.num {
+    color: gray;
+    position: relative;
+    margin-left: 140px;
+    font-size: 20px;
+    }
+.button {
+    text-align: center;
+}
+.img {
+    width: 270px;
+    height: 260px;
+    margin: 40px;
+}
+.team-img {
+    background-color:#F5F4FA;
+    border-radius: 50px;
+}
+.heading {
+    padding-top: 100px;  
+    font-size: 36px;
+}
+article {
+    background-color: white;
+    width: 360px;
+    height: 450px;
+    display: inline-flex;
+    margin: 50px;
+    border-radius: 50px;
+}
+.name1 {
+    position: relative;
+    top: 310px;
+    right: 310px;
+}
